@@ -11,7 +11,7 @@ int main() {
     double c = a*b;
 
 	
-	cout << a <<" * "<<b<<" = "<< c;
+	cout << a <<"*"<<b<<"="<<c;
 
 	
 
