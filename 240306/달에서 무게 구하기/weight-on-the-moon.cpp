@@ -5,7 +5,7 @@ int main() {
 
 	
 
-	double a = 13;
+	int a = 13;
     double b = 0.165;
     double c = a*b;
 
