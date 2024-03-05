@@ -8,9 +8,10 @@ int main() {
 
 	double a = 13.0f;
     double b = 0.165000;
+    double c = a*b;
 
 	
-	cout << a <<" * "<<b<<" = "<< a*b;
+	cout << a <<" * "<<b<<" = "<< c;
 
 	
 
