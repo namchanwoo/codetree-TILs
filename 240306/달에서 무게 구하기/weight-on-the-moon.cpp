@@ -12,7 +12,7 @@ int main() {
     cout << fixed;
     cout.precision(6);
 	
-	cout << a <<"*"<<b<<"="<<c;
+	cout << a <<" * "<<b<<" = "<<c;
 
 	
 
