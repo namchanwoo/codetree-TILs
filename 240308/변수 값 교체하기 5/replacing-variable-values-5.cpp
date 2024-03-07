@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
 	int a = 2, b = 6;
-    b =a;
+    a =b;
 
 	cout <<  a << endl;
 
